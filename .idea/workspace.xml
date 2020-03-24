@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c3cd59d-14d9-4fcb-8b74-5ede417369f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="ArticleTests.testCompareArticleTitle" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="pluginUpdatePolicy" value="UPDATE" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXzvnfDsKUOtPlV8XkhPvtplsJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.MyListsTest.testSaveFirstArticleToMyList">
+    <configuration name="ArticleTests.testCompareArticleTitle" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="JavaAppium" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ArticleTests" />
+      <option name="METHOD_NAME" value="testCompareArticleTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="PLATFORM" value="mobile_web" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyListsTest.testSaveFirstArticleToMyList" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="JavaAppium" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MyListsTest" />
+      <option name="METHOD_NAME" value="testSaveFirstArticleToMyList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="PLATFORM" value="mobile_web" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTests.testCancelSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAppium" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchTests" />
+      <option name="METHOD_NAME" value="testCancelSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="PLATFORM" value="mobile_web" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTests.testSearch" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="JavaAppium" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchTests" />
+      <option name="METHOD_NAME" value="testSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="PLATFORM" value="mobile_web" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SearchTests.testSearch" />
+      <item itemvalue="JUnit.SearchTests.testCancelSearch" />
+      <item itemvalue="JUnit.ArticleTests.testCompareArticleTitle" />
+      <item itemvalue="JUnit.MyListsTest.testSaveFirstArticleToMyList" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SearchTests.testCancelSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c3cd59d-14d9-4fcb-8b74-5ede417369f9" name="Default Changelist" comment="" />
+      <created>1585000459467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585000459467</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="286" y="95" key="#ArticleTests.testCompareArticleTitle" timestamp="1585083879377">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="286" y="95" key="#ArticleTests.testCompareArticleTitle/0.23.1440.877/-1920.23.1920.1011@0.23.1440.877" timestamp="1585083879377" />
+    <state x="286" y="96" key="#MyListsTest.testSaveFirstArticleToMyList" timestamp="1585093474144">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="286" y="96" key="#MyListsTest.testSaveFirstArticleToMyList/0.23.1440.831/-1920.23.1920.1057@0.23.1440.831" timestamp="1585093474144" />
+    <state x="286" y="95" key="#SearchTests.testSearch" timestamp="1585078503354">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="286" y="95" key="#SearchTests.testSearch/0.23.1440.831/-1920.23.1920.1057@0.23.1440.831" timestamp="1585078503354" />
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585080341655">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-1920.23.1920.1011@0.23.1440.877" timestamp="1585080341655" />
+    <state x="474" y="210" key="EnvironmentVariablesDialog" timestamp="1585093473221">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="474" y="210" key="EnvironmentVariablesDialog/0.23.1440.831/-1920.23.1920.1057@0.23.1440.831" timestamp="1585093473221" />
+    <state x="474" y="220" key="EnvironmentVariablesDialog/0.23.1440.877/-1920.23.1920.1011@0.23.1440.877" timestamp="1585083876822" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1585093493219">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.831/-1920.23.1920.1057@0.23.1440.831" timestamp="1585093493219" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.23.1920.1011@0.23.1440.877" timestamp="1585083890742" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1585093493217">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.831/-1920.23.1920.1057@0.23.1440.831" timestamp="1585093493217" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.877/-1920.23.1920.1011@0.23.1440.877" timestamp="1585083890740" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1585093493216">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.831/-1920.23.1920.1057@0.23.1440.831" timestamp="1585093493215" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.877/-1920.23.1920.1011@0.23.1440.877" timestamp="1585083890740" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1585093493218">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.831/-1920.23.1920.1057@0.23.1440.831" timestamp="1585093493218" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.877/-1920.23.1920.1011@0.23.1440.877" timestamp="1585083890741" />
+    <state x="353" y="224" key="Maven.ArtifactSearchDialog" timestamp="1585004451365">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="353" y="224" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1585004451365" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1585004605778">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1585004605778" />
+  </component>
+</project>
